@@ -1,0 +1,3 @@
+Player and player movement. - Check
+Background reset and movement. - check I guess :|
+Obstacle spawning. Check.
